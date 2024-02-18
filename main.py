@@ -62,4 +62,4 @@ async def respond(ctx, member: discord.Member, *, content):
 # Token
 
 client.run(
-    "MTIwODc1MjUxMDQwNDI2Mzk2Nw.GpIpsc.h8uUFA5vAgS_pUiOz5c5buh2Ac-9UiisZVOl_E")
+    "")
